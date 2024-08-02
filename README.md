@@ -10,6 +10,6 @@ I am a final year BSc in IT student at the North West University
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shane-ndobela-a2693530b/)
 
-
+[![view - Virtual CV Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://shaneweb-dev.github.io/Vircual-CV--Portfolio-website/)
 
 [![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaneWeb-dev)](https://github.com/ShaneWeb-dev/github-readme-stats)

@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Shane Ndobela
-I am a final year BSc in IT student at the North West University
+I am a BSc in IT Graduate at the North West University
 
 - 🔭As a passionate innovation enthusiast, I'm always driven to improve and stay disciplined in my endeavors.
 - 🌱  I thrive on learning, growing, and embracing new challenges!
